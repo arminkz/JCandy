@@ -1,2 +1,2 @@
 # JCandy
-a Powerful windows executable wrapper for java jar files. (Jar2exe)
+a Powerful .NET application for making windows executable files for java jar files. (Jar2exe wrapper) 
