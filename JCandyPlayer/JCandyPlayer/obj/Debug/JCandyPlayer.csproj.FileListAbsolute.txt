@@ -1,8 +1,0 @@
-D:\Documents\Visual Studio 2015\Projects\JCandyPlayer\JCandyPlayer\bin\Debug\JCandyPlayer.exe.config
-D:\Documents\Visual Studio 2015\Projects\JCandyPlayer\JCandyPlayer\bin\Debug\JCandyPlayer.exe
-D:\Documents\Visual Studio 2015\Projects\JCandyPlayer\JCandyPlayer\bin\Debug\JCandyPlayer.pdb
-D:\Documents\Visual Studio 2015\Projects\JCandyPlayer\JCandyPlayer\obj\Debug\JCandyPlayer.csprojResolveAssemblyReference.cache
-D:\Documents\Visual Studio 2015\Projects\JCandyPlayer\JCandyPlayer\obj\Debug\JCandyPlayer.Properties.Resources.resources
-D:\Documents\Visual Studio 2015\Projects\JCandyPlayer\JCandyPlayer\obj\Debug\JCandyPlayer.csproj.GenerateResource.Cache
-D:\Documents\Visual Studio 2015\Projects\JCandyPlayer\JCandyPlayer\obj\Debug\JCandyPlayer.exe
-D:\Documents\Visual Studio 2015\Projects\JCandyPlayer\JCandyPlayer\obj\Debug\JCandyPlayer.pdb
